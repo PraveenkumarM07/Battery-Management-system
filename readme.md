@@ -3,7 +3,8 @@
 
 - 🧪 **Wokwi Simulation:** [Open Wokwi Project](https://wokwi.com/projects/476036431640472577)
 - ☁️ **Blynk Dashboard:** [View Blynk Dashboard](https://blynk.cloud/dashboard/760290/global/devices/290445/organization/760290/devices/2283210/dashboard)
-
+- 📄 **Project Documentation:** [View Documentation](https://drive.google.com/file/d/1X3zl2-AGMrUxnw2mkkbzQMKkuBjiKUHG/view?usp=sharing)
+- 🎥 **Project Demo:** [Watch Demo](https://drive.google.com/file/d/1mVK-fpDQoySVxLGPU8Afo5Gyhhll_uCL/view?usp=sharing)
 An **ESP32-based intelligent Battery Management System (BMS)** designed to monitor, analyze, protect, diagnose, and remotely visualize a simulated **4-cell lithium battery pack** in real time.
 
 The project combines **battery voltage monitoring, battery analytics, fault detection, event-driven safety protection, LCD-based HMI, and Blynk IoT cloud monitoring** in a non-blocking embedded architecture.
