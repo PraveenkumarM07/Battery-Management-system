@@ -1,7 +1,7 @@
 # 🔋 4-Cell Battery Management & Safety Monitoring System
 ## 🔗 Project Links
 
-- 🧪 **Wokwi Simulation:** [Open Wokwi Project]([YOUR_WOKWI_LINK](https://wokwi.com/projects/476036431640472577))
+- 🧪 **Wokwi Simulation:** [Open Wokwi Project]((https://wokwi.com/projects/476036431640472577))
 - ☁️ **Blynk Dashboard:** [View Blynk Dashboard](https://blynk.cloud/dashboard/760290/global/devices/290445/organization/760290/devices/2283210/dashboard)
 
 An **ESP32-based intelligent Battery Management System (BMS)** designed to monitor, analyze, protect, diagnose, and remotely visualize a simulated **4-cell lithium battery pack** in real time.
